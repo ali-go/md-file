@@ -55,3 +55,19 @@ HSLA 即：色相、饱和度、亮度、透明度（英语：Hue, Saturation, L
 ```
 
 #### 4、backdrop-filter毛玻璃
+
+#### 5、颜色收集
+
+- 1、取至nestjs官网：
+
+```css
+background-color: hsl(204, 25%, 60%);
+background-image: radial-gradient(ellipse at center 115%, rgba(255, 255, 255, 0.9), transparent);
+```
+
+效果图:
+
+<img src="C:\Users\19979357151\AppData\Roaming\Typora\typora-user-images\image-20230512165058354.png" alt="image-20230512165058354" style="zoom:50%;" />
+
+
+
